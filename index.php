@@ -5,5 +5,4 @@ if (isset($_SESSION['user'])) {
 } else {
     header('location: signup.php');
 }
-
 ?>
