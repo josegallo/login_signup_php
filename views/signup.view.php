@@ -18,7 +18,7 @@
                 <i class="icon left fa fa-user"></i><input type="text" name = "user" class="user" placeholder = "user">
             </div>
             <div class="form-group">
-                <i class="icon left fa fa-lock"></i><input type="password" name = "passwword" class="password" placeholder = "passwword">
+                <i class="icon left fa fa-lock"></i><input type="password" name = "password" class="password" placeholder = "passwword">
             </div>
             <div class="form-group">
                 <i class="icon left fa fa-lock"></i><input type="password" name = "password2" class="password_btn" placeholder = "Repeat password">
