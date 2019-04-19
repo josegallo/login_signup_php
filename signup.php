@@ -1,5 +1,5 @@
 <?php 
-//if the user is set the go to index
+//if the user is set then go to index
 session_start();
 if (isset($_SESSION['user'])) {
     header('location: index.php');
